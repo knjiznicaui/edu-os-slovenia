@@ -1,1 +1,33 @@
-
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://edu-os-slovenia.github.io/schema/education-level.schema.json",
+  "title": "Education Level",
+  "description": "Schema for an education level in the Slovenian education system.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "order"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "order": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "types": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}
