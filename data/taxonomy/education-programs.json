@@ -1,1 +1,157 @@
 
+{
+  "country": "SI",
+  "version": "1.0.0",
+  "programs": [
+    {
+      "id": "SI.PREPRIMARY.PROGRAM",
+      "name": "Program za predšolske otroke",
+      "level_id": "SI.PREPRIMARY",
+      "program_type": "PREPRIMARY",
+      "duration_years": null,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.PRIMARY.GENERAL",
+      "name": "Osnovna šola",
+      "level_id": "SI.PRIMARY",
+      "program_type": "GENERAL",
+      "duration_years": 9,
+      "grades": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SECONDARY.GYMNASIUM.GENERAL",
+      "name": "Gimnazija",
+      "level_id": "SI.SECONDARY",
+      "program_type": "GYMNASIUM",
+      "duration_years": 4,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SECONDARY.GYMNASIUM.CLASSICAL",
+      "name": "Klasična gimnazija",
+      "level_id": "SI.SECONDARY",
+      "program_type": "GYMNASIUM",
+      "duration_years": 4,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SECONDARY.VOCATIONAL.NPI",
+      "name": "Nižje poklicno izobraževanje",
+      "level_id": "SI.SECONDARY",
+      "program_type": "NPI",
+      "duration_years": 2,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SECONDARY.VOCATIONAL.SPI",
+      "name": "Srednje poklicno izobraževanje",
+      "level_id": "SI.SECONDARY",
+      "program_type": "SPI",
+      "duration_years": 3,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SECONDARY.VOCATIONAL.SSI",
+      "name": "Srednje strokovno izobraževanje",
+      "level_id": "SI.SECONDARY",
+      "program_type": "SSI",
+      "duration_years": 4,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SECONDARY.VOCATIONAL.PTI",
+      "name": "Poklicno-tehniško izobraževanje",
+      "level_id": "SI.SECONDARY",
+      "program_type": "PTI",
+      "duration_years": 2,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SECONDARY.VOCATIONAL.PT",
+      "name": "Poklicni tečaj",
+      "level_id": "SI.SECONDARY",
+      "program_type": "PT",
+      "duration_years": 1,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.TERTIARY.HIGHER_VOCATIONAL",
+      "name": "Višje strokovno izobraževanje",
+      "level_id": "SI.TERTIARY",
+      "program_type": "HIGHER_VOCATIONAL",
+      "duration_years": 2,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.TERTIARY.HIGHER_EDUCATION.BACHELOR",
+      "name": "Visokošolsko izobraževanje – 1. stopnja",
+      "level_id": "SI.TERTIARY",
+      "program_type": "BACHELOR",
+      "duration_years": null,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.TERTIARY.MASTER",
+      "name": "Magistrsko izobraževanje – 2. stopnja",
+      "level_id": "SI.TERTIARY",
+      "program_type": "MASTER",
+      "duration_years": null,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.TERTIARY.INTEGRATED_MASTER",
+      "name": "Enoviti magistrski študijski program",
+      "level_id": "SI.TERTIARY",
+      "program_type": "INTEGRATED_MASTER",
+      "duration_years": null,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.TERTIARY.DOCTORATE",
+      "name": "Doktorsko izobraževanje – 3. stopnja",
+      "level_id": "SI.TERTIARY",
+      "program_type": "DOCTORATE",
+      "duration_years": null,
+      "grades": [],
+      "curriculum_source": null,
+      "status": "FOUNDATION"
+    }
+  ]
+}
