@@ -26,12 +26,35 @@
       ]
     },
     {
+      "id": "SI.PRIMARY.SUBJECT.SLOVENIAN.FIRST_PERIOD.2025",
+      "title": "Učni načrt – Slovenščina – 1. vzgojno-izobraževalno obdobje",
+      "status": "OFFICIAL",
+      "effective_from": "2026-09-01",
+      "source_url": "https://www.gov.si/assets/ministrstva/MVI/Dokumenti/Osnovna-sola/Ucni-nacrti/Ucni-nacrti/2025/UN_OS/Ucni_nacrt_za_prvo_vzgojno-izobrazevalno_obdobje_2025.pdf",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.FIRST_PERIOD.2025",
+      "grades": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
       "id": "SI.PRIMARY.SUBJECT.SLOVENIAN.2025",
-      "title": "Učni načrt – Slovenščina",
+      "title": "Učni načrt – Slovenščina – 2. in 3. vzgojno-izobraževalno obdobje",
       "status": "OFFICIAL",
       "effective_from": "2026-09-01",
       "source_url": "https://www.gov.si/assets/ministrstva/MVI/Dokumenti/Osnovna-sola/Ucni-nacrti/Ucni-nacrti/2025/UN_OS/Ucni_nacrt_slovenscina_2025.pdf",
-      "subject_id": "SI.SUBJECT.SLOVENIAN"
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grades": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     }
   ]
 }
