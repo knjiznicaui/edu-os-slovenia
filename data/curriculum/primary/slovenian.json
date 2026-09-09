@@ -1,6 +1,6 @@
 {
   "id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
-  "name": "Učni načrt – Slovenščina",
+  "name": "Učni načrt – Slovenščina – 2. in 3. vzgojno-izobraževalno obdobje",
   "program_id": "SI.PRIMARY.GENERAL",
   "subject_id": "SI.SUBJECT.SLOVENIAN",
   "version": "2025",
@@ -19,9 +19,6 @@
     "official": true
   },
   "grades": [
-    1,
-    2,
-    3,
     4,
     5,
     6,
@@ -30,5 +27,5 @@
     9
   ],
   "data_status": "SOURCE_REGISTERED",
-  "notes": "Učni načrt je uradni vir. V naslednjih korakih bodo iz njega strukturirano izpeljani sklopi, teme in učni cilji."
+  "notes": "Ta zapis predstavlja uradni učni načrt za slovenščino za 2. in 3. vzgojno-izobraževalno obdobje oziroma razrede 4–9. Za 1. vzgojno-izobraževalno obdobje je uporabljen ločen uradni vir iz leta 2025."
 }
