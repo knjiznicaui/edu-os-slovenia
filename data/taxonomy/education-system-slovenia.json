@@ -3,26 +3,67 @@
   "version": "1.0.0",
   "education_system": {
     "id": "SI",
+    "name": "Slovenski izobraževalni sistem",
+
     "levels": [
       {
         "id": "SI.PREPRIMARY",
         "name": "Predšolska vzgoja",
-        "order": 1
+        "order": 1,
+        "types": []
       },
       {
         "id": "SI.PRIMARY",
         "name": "Osnovnošolsko izobraževanje",
-        "order": 2
+        "order": 2,
+        "types": [
+          {
+            "id": "SI.PRIMARY.GENERAL",
+            "name": "Osnovna šola",
+            "duration_years": 9,
+            "grades": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
       },
       {
         "id": "SI.SECONDARY",
         "name": "Srednješolsko izobraževanje",
-        "order": 3
+        "order": 3,
+        "types": [
+          {
+            "id": "SI.SECONDARY.GYMNASIUM",
+            "name": "Gimnazijsko izobraževanje"
+          },
+          {
+            "id": "SI.SECONDARY.VOCATIONAL",
+            "name": "Poklicno in strokovno izobraževanje"
+          }
+        ]
       },
       {
         "id": "SI.TERTIARY",
         "name": "Terciarno izobraževanje",
-        "order": 4
+        "order": 4,
+        "types": [
+          {
+            "id": "SI.TERTIARY.HIGHER_VOCATIONAL",
+            "name": "Višje strokovno izobraževanje"
+          },
+          {
+            "id": "SI.TERTIARY.HIGHER_EDUCATION",
+            "name": "Visokošolsko izobraževanje"
+          }
+        ]
       }
     ]
   }
