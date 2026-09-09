@@ -1,1 +1,37 @@
-
+{
+  "country": "SI",
+  "education_level": "SI.PRIMARY",
+  "program_id": "SI.PRIMARY.GENERAL",
+  "title": "Učni načrti osnovne šole",
+  "source_authority": {
+    "organization": "Ministrstvo za vzgojo in izobraževanje Republike Slovenije",
+    "official": true,
+    "url": "https://www.gov.si/teme/programi-in-ucni-nacrti-v-osnovni-soli/"
+  },
+  "curriculum_documents": [
+    {
+      "id": "SI.PRIMARY.CURRICULUM.2025.FIRST_PERIOD",
+      "title": "Učni načrt za prvo vzgojno-izobraževalno obdobje",
+      "status": "OFFICIAL",
+      "effective_from": "2026-09-01",
+      "source_url": "https://www.gov.si/assets/ministrstva/MVI/Dokumenti/Osnovna-sola/Ucni-nacrti/Ucni-nacrti/2025/UN_OS/Ucni_nacrt_za_prvo_vzgojno-izobrazevalno_obdobje_2025.pdf",
+      "subjects": [
+        "Slovenščina",
+        "Matematika",
+        "Tuji jezik",
+        "Likovna umetnost",
+        "Glasbena umetnost",
+        "Spoznavanje okolja",
+        "Šport"
+      ]
+    },
+    {
+      "id": "SI.PRIMARY.SUBJECT.SLOVENIAN.2025",
+      "title": "Učni načrt – Slovenščina",
+      "status": "OFFICIAL",
+      "effective_from": "2026-09-01",
+      "source_url": "https://www.gov.si/assets/ministrstva/MVI/Dokumenti/Osnovna-sola/Ucni-nacrti/Ucni-nacrti/2025/UN_OS/Ucni_nacrt_slovenscina_2025.pdf",
+      "subject_id": "SI.SUBJECT.SLOVENIAN"
+    }
+  ]
+}
