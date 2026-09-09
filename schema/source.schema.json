@@ -1,1 +1,102 @@
-
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://edu-os-slovenia.github.io/schema/source.schema.json",
+  "title": "Source",
+  "description": "Schema for an authoritative or supporting source used by the education system.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "source_type",
+    "organization",
+    "official",
+    "url"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "CURRICULUM",
+        "PROGRAM_DOCUMENT",
+        "CATALOG",
+        "LAW",
+        "REGULATION",
+        "CLASSIFICATION",
+        "OFFICIAL_WEBSITE",
+        "OTHER"
+      ]
+    },
+    "organization": {
+      "type": "string",
+      "minLength": 1
+    },
+    "official": {
+      "type": "boolean"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "document_version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "effective_from": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "effective_to": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "retrieved_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "page": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
+    "section": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "original_title": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
