@@ -4,7 +4,7 @@
   "period": 1,
   "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
   "source_ids": [
-    "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+    "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
   ],
   "status": "OFFICIAL",
   "objectives": [
@@ -17,7 +17,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 30,
         "section": "Opismenjevanje – Predopismenjevanje"
@@ -33,7 +33,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 30,
         "section": "Opismenjevanje – Predopismenjevanje"
@@ -49,7 +49,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 30,
         "section": "Opismenjevanje – Predopismenjevanje"
@@ -65,7 +65,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 30,
         "section": "Opismenjevanje – Predopismenjevanje"
@@ -81,7 +81,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 30,
         "section": "Opismenjevanje – Predopismenjevanje"
@@ -97,7 +97,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 30,
         "section": "Opismenjevanje – Predopismenjevanje"
@@ -113,7 +113,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 30,
         "section": "Opismenjevanje – Predopismenjevanje"
@@ -129,14 +129,13 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 30,
         "section": "Opismenjevanje – Predopismenjevanje"
       },
       "status": "OFFICIAL"
     },
-
     {
       "id": "SI.SLOVENIAN.P1.OBJECTIVE.LITERACY.009",
       "title": "Usvajanje črk in povezave glas–črka",
@@ -146,7 +145,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 32,
         "section": "Opismenjevanje – Začetno opismenjevanje"
@@ -162,7 +161,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 32,
         "section": "Opismenjevanje – Začetno opismenjevanje"
@@ -178,7 +177,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 32,
         "section": "Opismenjevanje – Začetno opismenjevanje"
@@ -194,7 +193,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 32,
         "section": "Opismenjevanje – Začetno opismenjevanje"
@@ -210,7 +209,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 32,
         "section": "Opismenjevanje – Začetno opismenjevanje"
@@ -226,7 +225,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 32,
         "section": "Opismenjevanje – Začetno opismenjevanje"
@@ -243,7 +242,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 34,
         "section": "Sporazumevanje"
@@ -259,7 +258,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 34,
         "section": "Sporazumevanje"
@@ -275,7 +274,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 34,
         "section": "Sporazumevanje"
@@ -291,7 +290,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 34,
         "section": "Sporazumevanje"
@@ -307,7 +306,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 34,
         "section": "Sporazumevanje"
@@ -324,7 +323,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -340,7 +339,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -356,7 +355,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -372,7 +371,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -388,7 +387,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -404,7 +403,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -420,7 +419,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -436,7 +435,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -452,7 +451,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 35,
         "section": "Sprejemanje, razumevanje in tvorjenje besedila"
@@ -469,7 +468,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 40,
         "section": "Slovenski jezikovni prostor in slovenski jezik v družbi"
@@ -485,7 +484,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 40,
         "section": "Slovenski jezikovni prostor in slovenski jezik v družbi"
@@ -501,7 +500,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 40,
         "section": "Slovenski jezikovni prostor in slovenski jezik v družbi"
@@ -517,7 +516,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 40,
         "section": "Slovenski jezikovni prostor in slovenski jezik v družbi"
@@ -533,7 +532,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 41,
         "section": "Jezikovne zvrsti slovenskega jezika"
@@ -550,7 +549,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 43,
         "section": "Uvod v jezikovni sistem – Besedišče"
@@ -566,7 +565,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 43,
         "section": "Uvod v jezikovni sistem – Besedišče"
@@ -582,7 +581,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 43,
         "section": "Uvod v jezikovni sistem – Besedišče"
@@ -598,7 +597,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 43,
         "section": "Uvod v jezikovni sistem – Besedišče"
@@ -615,7 +614,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 44,
         "section": "Uvod v jezikovni sistem – Skladnja"
@@ -631,7 +630,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 44,
         "section": "Uvod v jezikovni sistem – Skladnja"
@@ -647,7 +646,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 44,
         "section": "Uvod v jezikovni sistem – Skladnja"
@@ -663,7 +662,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 44,
         "section": "Uvod v jezikovni sistem – Skladnja"
@@ -680,7 +679,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 46,
         "section": "Uvod v jezikovni sistem – Pravopis"
@@ -696,7 +695,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 46,
         "section": "Uvod v jezikovni sistem – Pravopis"
@@ -712,7 +711,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 46,
         "section": "Uvod v jezikovni sistem – Pravopis"
@@ -728,7 +727,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 46,
         "section": "Uvod v jezikovni sistem – Pravopis"
@@ -744,7 +743,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 46,
         "section": "Uvod v jezikovni sistem – Pravopis"
@@ -760,14 +759,13 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 46,
         "section": "Uvod v jezikovni sistem – Pravopis"
       },
       "status": "OFFICIAL"
     },
-
     {
       "id": "SI.SLOVENIAN.P1.OBJECTIVE.PRONUNCIATION.001",
       "title": "Knjižna izreka",
@@ -777,7 +775,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 47,
         "section": "Uvod v jezikovni sistem – Pravorečje"
@@ -793,7 +791,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 47,
         "section": "Uvod v jezikovni sistem – Pravorečje"
@@ -810,7 +808,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 48,
         "section": "Književna besedila"
@@ -826,7 +824,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 48,
         "section": "Književna besedila"
@@ -842,7 +840,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 48,
         "section": "Književna besedila"
@@ -858,7 +856,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 48,
         "section": "Književna besedila"
@@ -874,7 +872,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 48,
         "section": "Književna besedila"
@@ -890,7 +888,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 48,
         "section": "Književna besedila"
@@ -907,7 +905,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 50,
         "section": "Prvine književnih besedil"
@@ -923,7 +921,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 50,
         "section": "Prvine književnih besedil"
@@ -939,7 +937,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 50,
         "section": "Prvine književnih besedil"
@@ -955,7 +953,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 50,
         "section": "Prvine književnih besedil"
@@ -971,7 +969,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 50,
         "section": "Prvine književnih besedil"
@@ -987,7 +985,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 50,
         "section": "Prvine književnih besedil"
@@ -1004,7 +1002,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 52,
         "section": "Bralna kultura"
@@ -1020,7 +1018,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 52,
         "section": "Bralna kultura"
@@ -1036,7 +1034,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 52,
         "section": "Bralna kultura"
@@ -1052,7 +1050,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 52,
         "section": "Bralna kultura"
@@ -1068,7 +1066,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 52,
         "section": "Bralna kultura"
@@ -1085,7 +1083,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 53,
         "section": "Zvrsti književnosti – Pesništvo"
@@ -1101,7 +1099,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 53,
         "section": "Zvrsti književnosti – Pesništvo"
@@ -1117,7 +1115,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 53,
         "section": "Zvrsti književnosti – Pesništvo"
@@ -1134,7 +1132,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 55,
         "section": "Zvrsti književnosti – Pripovedništvo"
@@ -1150,7 +1148,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 55,
         "section": "Zvrsti književnosti – Pripovedništvo"
@@ -1167,7 +1165,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 56,
         "section": "Zvrsti književnosti – Dramatika"
@@ -1183,7 +1181,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 56,
         "section": "Zvrsti književnosti – Dramatika"
@@ -1200,7 +1198,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 57,
         "section": "Predelave književnih besedil"
@@ -1216,7 +1214,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 57,
         "section": "Predelave književnih besedil"
@@ -1232,7 +1230,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 57,
         "section": "Predelave književnih besedil"
@@ -1249,7 +1247,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 59,
         "section": "Govorno in pisno (po)ustvarjanje"
@@ -1265,7 +1263,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 59,
         "section": "Govorno in pisno (po)ustvarjanje"
@@ -1281,7 +1279,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 59,
         "section": "Govorno in pisno (po)ustvarjanje"
@@ -1297,7 +1295,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 59,
         "section": "Govorno in pisno (po)ustvarjanje"
@@ -1313,7 +1311,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 59,
         "section": "Govorno in pisno (po)ustvarjanje"
@@ -1329,7 +1327,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 59,
         "section": "Govorno in pisno (po)ustvarjanje"
@@ -1345,7 +1343,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 59,
         "section": "Govorno in pisno (po)ustvarjanje"
@@ -1362,7 +1360,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 61,
         "section": "Interpretativno branje"
@@ -1378,7 +1376,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 61,
         "section": "Interpretativno branje"
@@ -1394,7 +1392,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 61,
         "section": "Interpretativno branje"
@@ -1411,7 +1409,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 63,
         "section": "Književnost v prostoru in času – Ustvarjalci in njihova književna dela ter slovstvena folklora"
@@ -1427,7 +1425,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 63,
         "section": "Književnost v prostoru in času – Ustvarjalci in njihova književna dela ter slovstvena folklora"
@@ -1443,7 +1441,7 @@
       "period": 1,
       "grade": null,
       "objective_type": "OPERATIONAL",
-      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"],
+      "source_ids": ["SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"],
       "source_reference": {
         "page": 64,
         "section": "Literarnovedni izrazi"
