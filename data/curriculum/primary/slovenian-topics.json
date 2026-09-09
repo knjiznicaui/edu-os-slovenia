@@ -2,15 +2,437 @@
   "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
   "subject_id": "SI.SUBJECT.SLOVENIAN",
   "status": "OFFICIAL",
-  "source_ids": [
-    "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
-  ],
   "topics": [
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERACY",
+      "name": "Opismenjevanje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 1,
+      "description": "Razvoj predopismenjevalnih in začetnih opismenjevalnih zmožnosti v prvem vzgojno-izobraževalnem obdobju.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERACY.PRE_LITERACY",
+      "name": "Predopismenjevanje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERACY",
+      "grade": null,
+      "order": 1,
+      "description": "Razvijanje predopismenjevalnih zmožnosti, potrebnih za uspešno začetno opismenjevanje.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERACY.INITIAL_LITERACY",
+      "name": "Začetno opismenjevanje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERACY",
+      "grade": null,
+      "order": 2,
+      "description": "Postopno razvijanje branja, pisanja in drugih temeljnih pismenosti.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.COMMUNICATION_TEXT",
+      "name": "Sporazumevanje in besedilo",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 2,
+      "description": "Razvijanje sporazumevalne zmožnosti ter sprejemanja, razumevanja in tvorjenja različnih besedil.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.COMMUNICATION_TEXT.COMMUNICATION",
+      "name": "Sporazumevanje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.COMMUNICATION_TEXT",
+      "grade": null,
+      "order": 1,
+      "description": "Razvijanje zmožnosti sodelovanja v različnih sporazumevalnih položajih.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.COMMUNICATION_TEXT.TEXT_RECEPTION_PRODUCTION",
+      "name": "Sprejemanje, razumevanje in tvorjenje besedila",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.COMMUNICATION_TEXT",
+      "grade": null,
+      "order": 2,
+      "description": "Razvijanje zmožnosti poslušanja, govorjenja, branja in pisanja različnih besedil.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.COMMUNICATION_TEXT.TEXT_TYPES_GROUPS",
+      "name": "Besedilo, besedilne vrste, besedilne skupine",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.COMMUNICATION_TEXT",
+      "grade": null,
+      "order": 3,
+      "description": "Spoznavanje značilnosti različnih besedil, besedilnih vrst in skupin.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SPACE_SOCIETY",
+      "name": "Slovenski jezik v prostoru in družbi",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 3,
+      "description": "Spoznavanje slovenskega jezikovnega prostora, vloge slovenskega jezika in njegovih zvrsti.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SPACE_SOCIETY.LANGUAGE_SPACE_SOCIETY",
+      "name": "Slovenski jezikovni prostor in slovenski jezik v družbi",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SPACE_SOCIETY",
+      "grade": null,
+      "order": 1,
+      "description": "Spoznavanje slovenskega jezika, njegovega prostora in njegove vloge v družbi.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SPACE_SOCIETY.LANGUAGE_VARIETIES",
+      "name": "Jezikovne zvrsti slovenskega jezika",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SPACE_SOCIETY",
+      "grade": null,
+      "order": 2,
+      "description": "Spoznavanje različnih jezikovnih zvrsti slovenskega jezika in njihove rabe.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM",
+      "name": "Uvod v jezikovni sistem",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 4,
+      "description": "Temeljno spoznavanje jezikovnega sistema ter razvijanje jezikovne zmožnosti.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM.VOCABULARY",
+      "name": "Besedišče",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM",
+      "grade": null,
+      "order": 1,
+      "description": "Razvijanje besedišča ter razumevanje in ustrezna raba besed.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM.SYNTAX",
+      "name": "Skladnja",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM",
+      "grade": null,
+      "order": 2,
+      "description": "Osnovno razumevanje zgradbe povedi in odnosov med njenimi sestavinami.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM.ORTHOGRAPHY",
+      "name": "Pravopis",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM",
+      "grade": null,
+      "order": 3,
+      "description": "Razvijanje osnovne pravopisne zmožnosti in pravilnega zapisovanja.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM.PRONUNCIATION",
+      "name": "Pravorečje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM",
+      "grade": null,
+      "order": 4,
+      "description": "Razvijanje ustrezne izgovorjave in govornega izražanja.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_READING_RESPONSE",
+      "name": "Književna besedila in odziv",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 5,
+      "description": "Spoznavanje književnih besedil, njihovih prvin ter razvijanje bralne kulture in odziva na prebrano.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_READING_RESPONSE.LITERARY_TEXTS",
+      "name": "Književna besedila",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_READING_RESPONSE",
+      "grade": null,
+      "order": 1,
+      "description": "Spoznavanje različnih književnih besedil in razvijanje doživljajskega odnosa do književnosti.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_READING_RESPONSE.LITERARY_ELEMENTS",
+      "name": "Prvine književnih besedil",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_READING_RESPONSE",
+      "grade": null,
+      "order": 2,
+      "description": "Prepoznavanje in razumevanje temeljnih prvin književnih besedil.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_READING_RESPONSE.READING_CULTURE",
+      "name": "Bralna kultura",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_READING_RESPONSE",
+      "grade": null,
+      "order": 3,
+      "description": "Razvijanje bralnih navad, interesa za književnost in pozitivnega odnosa do branja.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES",
+      "name": "Zvrsti književnosti in predelave književnih besedil",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 6,
+      "description": "Spoznavanje pesništva, pripovedništva, dramatike in različnih predelav književnih besedil.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES.POETRY",
+      "name": "Pesništvo",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES",
+      "grade": null,
+      "order": 1,
+      "description": "Spoznavanje pesniških besedil in njihovih temeljnih značilnosti.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES.NARRATIVE",
+      "name": "Pripovedništvo",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES",
+      "grade": null,
+      "order": 2,
+      "description": "Spoznavanje pripovednih književnih besedil in njihovih značilnosti.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES.DRAMA",
+      "name": "Dramatika",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES",
+      "grade": null,
+      "order": 3,
+      "description": "Spoznavanje dramskih besedil in njihovih temeljnih značilnosti.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES.ADAPTATIONS",
+      "name": "Predelave književnih besedil",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES",
+      "grade": null,
+      "order": 4,
+      "description": "Spoznavanje različnih načinov predelave književnih besedil.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.CREATIVE_RESPONSE",
+      "name": "(Po)ustvarjanje ob književnih besedilih",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 7,
+      "description": "Ustvarjalno odzivanje na književna besedila z govornim, pisnim in interpretativnim izražanjem.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.CREATIVE_RESPONSE.ORAL_WRITTEN_CREATION",
+      "name": "Govorno in pisno (po)ustvarjanje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.CREATIVE_RESPONSE",
+      "grade": null,
+      "order": 1,
+      "description": "Ustvarjanje govornih in pisnih odzivov na književna besedila.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.CREATIVE_RESPONSE.INTERPRETATIVE_READING",
+      "name": "Interpretativno branje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.CREATIVE_RESPONSE",
+      "grade": null,
+      "order": 2,
+      "description": "Razvijanje doživljajnega in izraznega branja književnih besedil.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_SPACE_TIME",
+      "name": "Književnost v prostoru in času",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 8,
+      "description": "Spoznavanje ustvarjalcev, njihovih del, slovstvene folklore in osnovnih literarnovednih izrazov.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_SPACE_TIME.CREATORS_WORKS_FOLKLORE",
+      "name": "Ustvarjalci in njihova književna dela ter slovstvena folklora",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_SPACE_TIME",
+      "grade": null,
+      "order": 1,
+      "description": "Spoznavanje izbranih ustvarjalcev, njihovih del ter slovstvene folklore.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_SPACE_TIME.LITERARY_TERMS",
+      "name": "Literarnovedni izrazi",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": "SI.SLOVENIAN.TOPIC.P1.LITERATURE_SPACE_TIME",
+      "grade": null,
+      "order": 2,
+      "description": "Usvajanje osnovnih izrazov za govorjenje o književnih besedilih.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+
     {
       "id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
       "name": "Sporazumevanje in besedilo",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
       "parent_topic_id": null,
-      "order": 1,
+      "grade": null,
+      "order": 101,
+      "description": "Razvijanje sporazumevalne zmožnosti, razumevanja besedil, tvorjenja besedil in bralne pismenosti v drugem in tretjem vzgojno-izobraževalnem obdobju.",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
@@ -19,8 +441,12 @@
     {
       "id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SPACE_SOCIETY_TIME",
       "name": "Slovenski jezik v prostoru, družbi in času",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
       "parent_topic_id": null,
-      "order": 2,
+      "grade": null,
+      "order": 102,
+      "description": "Razumevanje položaja slovenskega jezika v prostoru, družbi in času ter njegovega razvoja.",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
@@ -29,8 +455,12 @@
     {
       "id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
       "name": "Jezikovni sistem in njegova vloga",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
       "parent_topic_id": null,
-      "order": 3,
+      "grade": null,
+      "order": 103,
+      "description": "Sistematično razvijanje jezikovnega znanja in razumevanje vloge jezikovnih sredstev pri sporazumevanju.",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
@@ -39,8 +469,12 @@
     {
       "id": "SI.SLOVENIAN.TOPIC.ORTHOGRAPHY_PRONUNCIATION",
       "name": "Pravopis in pravorečje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
       "parent_topic_id": null,
-      "order": 4,
+      "grade": null,
+      "order": 104,
+      "description": "Razvijanje pravopisne in pravorečne zmožnosti ter ustrezne pisne in govorne rabe jezika.",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
@@ -49,8 +483,12 @@
     {
       "id": "SI.SLOVENIAN.TOPIC.DIGITAL_AGE",
       "name": "Slovenščina v digitalni dobi",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
       "parent_topic_id": null,
-      "order": 5,
+      "grade": null,
+      "order": 105,
+      "description": "Razvijanje zmožnosti rabe slovenščine v digitalnem okolju ter kritičnega in odgovornega sporazumevanja z digitalnimi viri.",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
@@ -59,8 +497,26 @@
     {
       "id": "SI.SLOVENIAN.TOPIC.LITERATURE_READING_RESPONSE",
       "name": "Književnost in bralni odziv",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
       "parent_topic_id": null,
-      "order": 6,
+      "grade": null,
+      "order": 106,
+      "description": "Razvijanje poglobljenega branja, razumevanja, doživljanja in interpretiranja književnih besedil.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.LITERARY_GENRES_ADAPTATIONS",
+      "name": "Zvrsti književnosti in predelave književnih besedil",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 107,
+      "description": "Spoznavanje in razumevanje različnih književnih zvrsti ter primerjanje književnih besedil z njihovimi predelavami.",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
@@ -69,8 +525,12 @@
     {
       "id": "SI.SLOVENIAN.TOPIC.CREATIVE_RESPONSE",
       "name": "(Po)ustvarjanje ob književnih besedilih",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
       "parent_topic_id": null,
-      "order": 7,
+      "grade": null,
+      "order": 108,
+      "description": "Ustvarjalno odzivanje na književna besedila ter razvijanje interpretativnega in ustvarjalnega izražanja.",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
@@ -79,8 +539,54 @@
     {
       "id": "SI.SLOVENIAN.TOPIC.LITERATURE_SPACE_TIME",
       "name": "Književnost v prostoru in času",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
       "parent_topic_id": null,
-      "order": 8,
+      "grade": null,
+      "order": 109,
+      "description": "Razumevanje književnosti v zgodovinskem, družbenem, kulturnem in prostorskem kontekstu.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P3.LANGUAGE_HISTORY",
+      "name": "Zgodovina slovenskega jezika",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 110,
+      "description": "Spoznavanje razvoja slovenskega jezika in njegovih pomembnih zgodovinskih značilnosti.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P3.LITERARY_PERSPECTIVE",
+      "name": "Književna perspektiva",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 111,
+      "description": "Poglobljeno razumevanje načinov, perspektiv in postopkov oblikovanja književnega besedila.",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.P3.LITERARY_HISTORY",
+      "name": "Literarnovedno znanje",
+      "subject_id": "SI.SUBJECT.SLOVENIAN",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "parent_topic_id": null,
+      "grade": null,
+      "order": 112,
+      "description": "Poglobljeno literarnovedno znanje, potrebno za razumevanje književnosti, književnih obdobij, zvrsti in pojavov.",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
