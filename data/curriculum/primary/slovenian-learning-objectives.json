@@ -1,1 +1,206 @@
-
+{
+  "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+  "subject_id": "SI.SUBJECT.SLOVENIAN",
+  "source_ids": [
+    "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+  ],
+  "status": "OFFICIAL",
+  "objectives": [
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.COMMUNICATION.001",
+      "title": "Razvijanje bralne pismenosti",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "UNDERSTAND",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.COMMUNICATION.002",
+      "title": "Besedilo, besedilne vrste in besedilne skupine",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "ANALYZE",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.COMMUNICATION.003",
+      "title": "Besediloslovje ter sprejemanje in tvorjenje besedila",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "APPLY",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SPACE.001",
+      "title": "Slovenski jezikovni prostor",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SPACE_SOCIETY_TIME",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "UNDERSTAND",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SPACE.002",
+      "title": "Slovenski jezik v družbi",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SPACE_SOCIETY_TIME",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "UNDERSTAND",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SPACE.003",
+      "title": "Jezikovne zvrsti",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SPACE_SOCIETY_TIME",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "ANALYZE",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SYSTEM.001",
+      "title": "Jezikovne ravnine in univerzalnost jezikovnega sistema",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "UNDERSTAND",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SYSTEM.002",
+      "title": "Glasoslovje",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "UNDERSTAND",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SYSTEM.003",
+      "title": "Besedoslovje",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "UNDERSTAND",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SYSTEM.004",
+      "title": "Besedotvorje",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "UNDERSTAND",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SYSTEM.005",
+      "title": "Oblikoslovje",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "UNDERSTAND",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.LANGUAGE_SYSTEM.006",
+      "title": "Skladnja",
+      "topic_id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "ANALYZE",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.ORTHOGRAPHY.001",
+      "title": "Pravopis",
+      "topic_id": "SI.SLOVENIAN.TOPIC.ORTHOGRAPHY_PRONUNCIATION",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "APPLY",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.OBJECTIVE.ORTHOGRAPHY.002",
+      "title": "Pravorečje",
+      "topic_id": "SI.SLOVENIAN.TOPIC.ORTHOGRAPHY_PRONUNCIATION",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "grade": null,
+      "competency_ids": [],
+      "prerequisite_ids": [],
+      "bloom_level": "APPLY",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    }
+  ]
+}
