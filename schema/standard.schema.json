@@ -1,1 +1,98 @@
-
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://edu-os-slovenia.github.io/schema/standard.schema.json",
+  "title": "Learning Standard",
+  "description": "Schema for a learning standard within the Slovenian education system.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "description",
+    "period",
+    "grade",
+    "standard_type",
+    "source_ids",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "period": {
+      "type": "integer",
+      "enum": [1, 2, 3]
+    },
+    "grade": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "maximum": 9
+    },
+    "standard_type": {
+      "type": "string",
+      "enum": [
+        "MINIMUM",
+        "EXPECTED",
+        "EXTENDED"
+      ]
+    },
+    "objective_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "topic_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "source_reference": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "page": {
+          "type": ["integer", "null"],
+          "minimum": 1
+        },
+        "section": {
+          "type": ["string", "null"]
+        },
+        "original_text": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "DRAFT",
+        "OFFICIAL",
+        "AI_GENERATED",
+        "ARCHIVED"
+      ]
+    }
+  }
+}
