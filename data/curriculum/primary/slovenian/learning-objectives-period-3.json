@@ -1,1 +1,221 @@
-
+{
+  "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+  "subject_id": "SI.SUBJECT.SLOVENIAN",
+  "period": 3,
+  "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+  "source_ids": [
+    "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+  ],
+  "status": "OFFICIAL",
+  "objectives": [
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.001",
+      "title": "Motivacija za branje",
+      "description": "Učenec je motiviran za branje v šoli in zunaj nje.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: je motiviran za branje v šoli in zunaj nje;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.002",
+      "title": "Tekoče branje zahtevnejših besedil",
+      "description": "Učenec tekoče bere daljša in zahtevnejša besedila ter prilagaja hitrost branja zahtevam besedila.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: tekoče bere daljša in zahtevnejša besedila ter prilagaja hitrost branja zahtevam besedila;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.003",
+      "title": "Obvezno domače branje",
+      "description": "Učenec za obvezno domače branje umetnostnih in neumetnostnih besedil nameni vsaj štiri ure in pol mesečno.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: na mesec za obvezno domače branje umetnostnih in neumetnostnih besedil nameni vsaj štiri ure in pol (tu navedeni orientacijski čas učitelj po lastni presoji preračuna v število strani ali ustrezna besedila);"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.004",
+      "title": "Izbira informacijskih virov in bralne strategije",
+      "description": "Učenec glede na namen samostojno izbira tiskane in druge informacijske vire ter uporabi primerne bralne strategije.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: glede na namen samostojno izbira tiskane in druge informacijske vire ter uporabi primerne bralne strategije;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.005",
+      "title": "Primerjanje in vrednotenje besedil",
+      "description": "Učenec primerja več besedil med seboj in jih ovrednoti z različnimi kriteriji.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: primerja več besedil med seboj in jih ovrednoti z različnimi kriteriji;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.006",
+      "title": "Oblikovanje in utemeljevanje domnev",
+      "description": "Učenec na podlagi podatkov iz besedila oblikuje domneve in jih poskuša utemeljiti.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: na podlagi podatkov iz besedila (s pomočjo ali samostojno) oblikuje domneve in jih poskuša utemeljiti;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.007",
+      "title": "Samostojno tvorjenje besedil in odziv na prebrano",
+      "description": "Učenec samostojno tvori besedila in utemeljuje svoje odzive na prebrano.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: samostojno tvori besedila in utemeljuje svoje odzive na prebrano;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.008",
+      "title": "Odgovorna uporaba informacijskih virov",
+      "description": "Učenec samostojno, namensko in odgovorno izbira ter uporablja tiskane in druge informacijske vire.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: samostojno, namensko in odgovorno izbira ter uporablja tiskane in druge informacijske vire;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.009",
+      "title": "Uporaba šolskih in splošnih knjižnic",
+      "description": "Učenec samostojno uporablja šolske in splošne knjižnice.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: samostojno uporablja šolske in splošne knjižnice;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.010",
+      "title": "Uporaba prebranega pri reševanju problemov",
+      "description": "Učenec prebrano uporablja pri reševanju problemov v različnih položajih, učnih in v osebnem življenju.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 61,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: prebrano uporablja pri reševanju problemov v različnih položajih – učnih in v osebnem življenju;"
+      },
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.P3.OBJECTIVE.READING.011",
+      "title": "Predstavitev lastnega napredka pri bralni pismenosti",
+      "description": "Učenec predstavi svoj napredek pri razvijanju bralne pismenosti in našteje svoje aktivnosti s tega področja.",
+      "topic_id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+      "period": 3,
+      "grade": null,
+      "objective_type": "OPERATIONAL",
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "source_reference": {
+        "page": 62,
+        "section": "Razvijanje bralne pismenosti – Cilji",
+        "original_text": "O: predstavi svoj napredek pri razvijanju bralne pismenosti in našteje svoje aktivnosti s tega področja (7./8./9. r.)."
+      },
+      "status": "OFFICIAL"
+    }
+  ]
+}
