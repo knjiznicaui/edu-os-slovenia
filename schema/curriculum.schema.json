@@ -1,1 +1,71 @@
-
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://edu-os-slovenia.github.io/schema/curriculum.schema.json",
+  "title": "Curriculum",
+  "description": "Schema for a curriculum or curriculum version in the Slovenian education system.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "program_id",
+    "version",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "program_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "effective_from": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "effective_to": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "DRAFT",
+        "OFFICIAL",
+        "ARCHIVED"
+      ]
+    }
+  }
+}
