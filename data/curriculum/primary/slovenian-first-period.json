@@ -1,1 +1,28 @@
-
+{
+  "id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.FIRST_PERIOD.2025",
+  "name": "Učni načrt – Slovenščina – 1. vzgojno-izobraževalno obdobje",
+  "program_id": "SI.PRIMARY.GENERAL",
+  "subject_id": "SI.SUBJECT.SLOVENIAN",
+  "version": "2025",
+  "effective_from": "2026-09-01",
+  "effective_to": null,
+  "status": "OFFICIAL",
+  "source_ids": [
+    "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
+  ],
+  "official_document": {
+    "title": "Učni načrt za prvo vzgojno-izobraževalno obdobje",
+    "organization": "Ministrstvo za vzgojo in izobraževanje Republike Slovenije",
+    "institution": "Zavod Republike Slovenije za šolstvo",
+    "adoption_date": "2025-05-22",
+    "url": "https://www.gov.si/assets/ministrstva/MVI/Dokumenti/Osnovna-sola/Ucni-nacrti/Ucni-nacrti/2025/UN_OS/Ucni_nacrt_za_prvo_vzgojno-izobrazevalno_obdobje_2025.pdf",
+    "official": true
+  },
+  "grades": [
+    1,
+    2,
+    3
+  ],
+  "data_status": "SOURCE_REGISTERED",
+  "notes": "Ta zapis predstavlja uradni učni načrt za slovenščino v prvem vzgojno-izobraževalnem obdobju oziroma razredih 1–3. Podatki se strukturirano izpeljujejo iz uradnega učnega načrta za prvo vzgojno-izobraževalno obdobje."
+}
