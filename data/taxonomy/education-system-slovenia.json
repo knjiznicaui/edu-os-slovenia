@@ -1,1 +1,29 @@
-
+{
+  "country": "SI",
+  "version": "1.0.0",
+  "education_system": {
+    "id": "SI",
+    "levels": [
+      {
+        "id": "SI.PREPRIMARY",
+        "name": "Predšolska vzgoja",
+        "order": 1
+      },
+      {
+        "id": "SI.PRIMARY",
+        "name": "Osnovnošolsko izobraževanje",
+        "order": 2
+      },
+      {
+        "id": "SI.SECONDARY",
+        "name": "Srednješolsko izobraževanje",
+        "order": 3
+      },
+      {
+        "id": "SI.TERTIARY",
+        "name": "Terciarno izobraževanje",
+        "order": 4
+      }
+    ]
+  }
+}
