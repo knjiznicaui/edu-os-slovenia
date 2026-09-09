@@ -1,1 +1,292 @@
-
+{
+  "country": "SI",
+  "version": "1.0.0",
+  "subjects": [
+    {
+      "id": "SI.SUBJECT.SLOVENIAN",
+      "name": "Slovenščina",
+      "category": "LANGUAGE",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.MATHEMATICS",
+      "name": "Matematika",
+      "category": "MATHEMATICS",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.ENGLISH",
+      "name": "Angleščina",
+      "category": "LANGUAGE",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.GERMAN",
+      "name": "Nemščina",
+      "category": "LANGUAGE",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.FIRST_FOREIGN_LANGUAGE",
+      "name": "Prvi tuji jezik",
+      "category": "LANGUAGE",
+      "levels": [
+        "SI.PRIMARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.SECOND_FOREIGN_LANGUAGE",
+      "name": "Drugi tuji jezik",
+      "category": "LANGUAGE",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.HISTORY",
+      "name": "Zgodovina",
+      "category": "HUMANITIES",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.GEOGRAPHY",
+      "name": "Geografija",
+      "category": "SOCIAL_SCIENCES",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.BIOLOGY",
+      "name": "Biologija",
+      "category": "NATURAL_SCIENCES",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.CHEMISTRY",
+      "name": "Kemija",
+      "category": "NATURAL_SCIENCES",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.PHYSICS",
+      "name": "Fizika",
+      "category": "NATURAL_SCIENCES",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.COMPUTER_SCIENCE",
+      "name": "Računalništvo in informatika",
+      "category": "INFORMATICS",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.TECHNICAL_EDUCATION",
+      "name": "Tehnika in tehnologija",
+      "category": "TECHNOLOGY",
+      "levels": [
+        "SI.PRIMARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.ART",
+      "name": "Likovna umetnost",
+      "category": "ARTS",
+      "levels": [
+        "SI.PRIMARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.MUSIC",
+      "name": "Glasbena umetnost",
+      "category": "ARTS",
+      "levels": [
+        "SI.PRIMARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.PHYSICAL_EDUCATION",
+      "name": "Šport",
+      "category": "PHYSICAL_EDUCATION",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.CIVICS",
+      "name": "Državljanska in domovinska vzgoja ter etika",
+      "category": "SOCIAL_SCIENCES",
+      "levels": [
+        "SI.PRIMARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.SOCIOLOGY",
+      "name": "Sociologija",
+      "category": "SOCIAL_SCIENCES",
+      "levels": [
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.PSYCHOLOGY",
+      "name": "Psihologija",
+      "category": "SOCIAL_SCIENCES",
+      "levels": [
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.PHILOSOPHY",
+      "name": "Filozofija",
+      "category": "HUMANITIES",
+      "levels": [
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.ECONOMICS",
+      "name": "Ekonomija",
+      "category": "BUSINESS",
+      "levels": [
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.LAW",
+      "name": "Pravo",
+      "category": "LAW",
+      "levels": [
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.POLITICAL_SCIENCE",
+      "name": "Politologija",
+      "category": "SOCIAL_SCIENCES",
+      "levels": [
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.MEDICINE",
+      "name": "Medicina",
+      "category": "HEALTH",
+      "levels": [
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.ENGINEERING",
+      "name": "Inženirstvo",
+      "category": "ENGINEERING",
+      "levels": [
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.NATURAL_SCIENCES",
+      "name": "Naravoslovje",
+      "category": "NATURAL_SCIENCES",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.SOCIAL_SCIENCES",
+      "name": "Družboslovje",
+      "category": "SOCIAL_SCIENCES",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.HUMANITIES",
+      "name": "Humanistika",
+      "category": "HUMANITIES",
+      "levels": [
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    },
+    {
+      "id": "SI.SUBJECT.ARTS",
+      "name": "Umetnost",
+      "category": "ARTS",
+      "levels": [
+        "SI.PRIMARY",
+        "SI.SECONDARY",
+        "SI.TERTIARY"
+      ],
+      "status": "FOUNDATION"
+    }
+  ]
+}
