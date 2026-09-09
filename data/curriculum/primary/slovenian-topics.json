@@ -1,1 +1,90 @@
-
+{
+  "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
+  "subject_id": "SI.SUBJECT.SLOVENIAN",
+  "status": "OFFICIAL",
+  "source_ids": [
+    "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+  ],
+  "topics": [
+    {
+      "id": "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+      "name": "Sporazumevanje in besedilo",
+      "parent_topic_id": null,
+      "order": 1,
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SPACE_SOCIETY_TIME",
+      "name": "Slovenski jezik v prostoru, družbi in času",
+      "parent_topic_id": null,
+      "order": 2,
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+      "name": "Jezikovni sistem in njegova vloga",
+      "parent_topic_id": null,
+      "order": 3,
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.ORTHOGRAPHY_PRONUNCIATION",
+      "name": "Pravopis in pravorečje",
+      "parent_topic_id": null,
+      "order": 4,
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.DIGITAL_AGE",
+      "name": "Slovenščina v digitalni dobi",
+      "parent_topic_id": null,
+      "order": 5,
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.LITERATURE_READING_RESPONSE",
+      "name": "Književnost in bralni odziv",
+      "parent_topic_id": null,
+      "order": 6,
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.CREATIVE_RESPONSE",
+      "name": "(Po)ustvarjanje ob književnih besedilih",
+      "parent_topic_id": null,
+      "order": 7,
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    },
+    {
+      "id": "SI.SLOVENIAN.TOPIC.LITERATURE_SPACE_TIME",
+      "name": "Književnost v prostoru in času",
+      "parent_topic_id": null,
+      "order": 8,
+      "source_ids": [
+        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+      ],
+      "status": "OFFICIAL"
+    }
+  ]
+}
