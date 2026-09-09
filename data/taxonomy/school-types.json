@@ -1,1 +1,73 @@
-
+{
+  "country": "SI",
+  "version": "1.0.0",
+  "school_types": [
+    {
+      "id": "SI.SCHOOL.PRIMARY",
+      "name": "Osnovna šola",
+      "level_id": "SI.PRIMARY",
+      "institution_category": "SCHOOL",
+      "description": "Ustanova za izvajanje osnovnošolskega izobraževanja.",
+      "program_ids": [
+        "SI.PRIMARY.GENERAL"
+      ]
+    },
+    {
+      "id": "SI.SCHOOL.GYMNASIUM",
+      "name": "Gimnazija",
+      "level_id": "SI.SECONDARY",
+      "institution_category": "SCHOOL",
+      "description": "Ustanova za izvajanje gimnazijskega izobraževanja.",
+      "program_ids": [
+        "SI.SECONDARY.GYMNASIUM.GENERAL",
+        "SI.SECONDARY.GYMNASIUM.CLASSICAL"
+      ]
+    },
+    {
+      "id": "SI.SCHOOL.VOCATIONAL",
+      "name": "Srednja poklicna šola",
+      "level_id": "SI.SECONDARY",
+      "institution_category": "SCHOOL",
+      "description": "Ustanova za izvajanje poklicnega izobraževanja.",
+      "program_ids": [
+        "SI.SECONDARY.VOCATIONAL.NPI",
+        "SI.SECONDARY.VOCATIONAL.SPI"
+      ]
+    },
+    {
+      "id": "SI.SCHOOL.PROFESSIONAL",
+      "name": "Srednja strokovna šola",
+      "level_id": "SI.SECONDARY",
+      "institution_category": "SCHOOL",
+      "description": "Ustanova za izvajanje srednjega strokovnega izobraževanja.",
+      "program_ids": [
+        "SI.SECONDARY.VOCATIONAL.SSI",
+        "SI.SECONDARY.VOCATIONAL.PTI",
+        "SI.SECONDARY.VOCATIONAL.PT"
+      ]
+    },
+    {
+      "id": "SI.SCHOOL.HIGHER_VOCATIONAL",
+      "name": "Višja strokovna šola",
+      "level_id": "SI.TERTIARY",
+      "institution_category": "HIGHER_VOCATIONAL_SCHOOL",
+      "description": "Ustanova za izvajanje višjega strokovnega izobraževanja.",
+      "program_ids": [
+        "SI.TERTIARY.HIGHER_VOCATIONAL"
+      ]
+    },
+    {
+      "id": "SI.INSTITUTION.HIGHER_EDUCATION",
+      "name": "Visokošolski zavod",
+      "level_id": "SI.TERTIARY",
+      "institution_category": "HIGHER_EDUCATION_INSTITUTION",
+      "description": "Ustanova oziroma zavod, ki izvaja visokošolske študijske programe.",
+      "program_ids": [
+        "SI.TERTIARY.HIGHER_EDUCATION.BACHELOR",
+        "SI.TERTIARY.MASTER",
+        "SI.TERTIARY.INTEGRATED_MASTER",
+        "SI.TERTIARY.DOCTORATE"
+      ]
+    }
+  ]
+}
