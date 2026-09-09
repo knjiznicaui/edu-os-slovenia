@@ -1,1 +1,30 @@
-
+{
+  "country": "SI",
+  "classification": {
+    "id": "KLASIUS-P-16",
+    "name": "Klasifikacijski sistem izobraževanja in usposabljanja",
+    "version": "1.0.0",
+    "source": {
+      "institution": "Statistični urad Republike Slovenije",
+      "official": true,
+      "url": "https://www.stat.si/Klasje/Klasje/Tabela/7541"
+    }
+  },
+  "levels": [
+    {
+      "level": 1,
+      "name": "Široko področje",
+      "codes": []
+    },
+    {
+      "level": 2,
+      "name": "Ožje področje",
+      "codes": []
+    },
+    {
+      "level": 3,
+      "name": "Podrobno področje",
+      "codes": []
+    }
+  ]
+}
