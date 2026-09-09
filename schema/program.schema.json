@@ -1,1 +1,60 @@
-
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://edu-os-slovenia.github.io/schema/program.schema.json",
+  "title": "Education Program",
+  "description": "Schema for an education program in the Slovenian education system.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "level_id",
+    "program_type"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "level_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "program_type": {
+      "type": "string",
+      "minLength": 1
+    },
+    "duration_years": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
+    "grades": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      }
+    },
+    "curriculum_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "FOUNDATION",
+        "OFFICIAL",
+        "ARCHIVED"
+      ]
+    }
+  }
+}
