@@ -1,46 +1,89 @@
 {
-  "curriculum_id": "SI.PRIMARY.CURRICULUM.SLOVENIAN.2025",
   "subject_id": "SI.SUBJECT.SLOVENIAN",
-  "source_ids": [
-    "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
-  ],
-  "status": "OFFICIAL",
   "standards": [
     {
       "id": "SI.SLOVENIAN.STANDARD.P1.001",
       "title": "Temeljni standardi znanja – 1. obdobje",
-      "description": "Standardi znanja za prvo vzgojno-izobraževalno obdobje.",
+      "description": "Standardi znanja za slovenščino ob koncu prvega vzgojno-izobraževalnega obdobja.",
       "period": 1,
       "grade": null,
       "standard_type": "MINIMUM",
       "source_ids": [
-        "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
+        "SI.SOURCE.MVI.SLOVENIAN.FIRST_PERIOD.2025"
       ],
+      "topic_ids": [
+        "SI.SLOVENIAN.TOPIC.P1.LITERACY",
+        "SI.SLOVENIAN.TOPIC.P1.COMMUNICATION_TEXT",
+        "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SPACE_SOCIETY",
+        "SI.SLOVENIAN.TOPIC.P1.LANGUAGE_SYSTEM",
+        "SI.SLOVENIAN.TOPIC.P1.LITERATURE_READING_RESPONSE",
+        "SI.SLOVENIAN.TOPIC.P1.LITERARY_GENRES",
+        "SI.SLOVENIAN.TOPIC.P1.CREATIVE_RESPONSE",
+        "SI.SLOVENIAN.TOPIC.P1.LITERATURE_SPACE_TIME"
+      ],
+      "source_reference": {
+        "page": 28,
+        "section": "Slovenščina – standardi znanja ob koncu prvega vzgojno-izobraževalnega obdobja"
+      },
       "status": "OFFICIAL"
     },
     {
       "id": "SI.SLOVENIAN.STANDARD.P2.001",
       "title": "Temeljni standardi znanja – 2. obdobje",
-      "description": "Standardi znanja za drugo vzgojno-izobraževalno obdobje.",
+      "description": "Standardi znanja za slovenščino ob koncu drugega vzgojno-izobraževalnega obdobja.",
       "period": 2,
       "grade": null,
       "standard_type": "MINIMUM",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
+      "topic_ids": [
+        "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+        "SI.SLOVENIAN.TOPIC.LANGUAGE_SPACE_SOCIETY_TIME",
+        "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+        "SI.SLOVENIAN.TOPIC.ORTHOGRAPHY_PRONUNCIATION",
+        "SI.SLOVENIAN.TOPIC.DIGITAL_AGE",
+        "SI.SLOVENIAN.TOPIC.LITERATURE_READING_RESPONSE",
+        "SI.SLOVENIAN.TOPIC.LITERARY_GENRES_ADAPTATIONS",
+        "SI.SLOVENIAN.TOPIC.CREATIVE_RESPONSE",
+        "SI.SLOVENIAN.TOPIC.LITERATURE_SPACE_TIME"
+      ],
+      "source_reference": {
+        "page": 72,
+        "section": "Standardi znanja – drugo vzgojno-izobraževalno obdobje"
+      },
       "status": "OFFICIAL"
     },
     {
       "id": "SI.SLOVENIAN.STANDARD.P3.001",
       "title": "Temeljni standardi znanja – 3. obdobje",
-      "description": "Standardi znanja za tretje vzgojno-izobraževalno obdobje.",
+      "description": "Standardi znanja za slovenščino ob koncu tretjega vzgojno-izobraževalnega obdobja.",
       "period": 3,
       "grade": null,
       "standard_type": "MINIMUM",
       "source_ids": [
         "SI.SOURCE.MVI.SLOVENIAN.CURRICULUM.2025"
       ],
+      "topic_ids": [
+        "SI.SLOVENIAN.TOPIC.COMMUNICATION_TEXT",
+        "SI.SLOVENIAN.TOPIC.LANGUAGE_SPACE_SOCIETY_TIME",
+        "SI.SLOVENIAN.TOPIC.LANGUAGE_SYSTEM",
+        "SI.SLOVENIAN.TOPIC.ORTHOGRAPHY_PRONUNCIATION",
+        "SI.SLOVENIAN.TOPIC.DIGITAL_AGE",
+        "SI.SLOVENIAN.TOPIC.LITERATURE_READING_RESPONSE",
+        "SI.SLOVENIAN.TOPIC.LITERARY_GENRES_ADAPTATIONS",
+        "SI.SLOVENIAN.TOPIC.CREATIVE_RESPONSE",
+        "SI.SLOVENIAN.TOPIC.LITERATURE_SPACE_TIME",
+        "SI.SLOVENIAN.TOPIC.P3.LANGUAGE_HISTORY",
+        "SI.SLOVENIAN.TOPIC.P3.LITERARY_PERSPECTIVE",
+        "SI.SLOVENIAN.TOPIC.P3.LITERARY_HISTORY"
+      ],
+      "source_reference": {
+        "page": 103,
+        "section": "Standardi znanja – tretje vzgojno-izobraževalno obdobje"
+      },
       "status": "OFFICIAL"
     }
-  ]
+  ],
+  "status": "OFFICIAL"
 }
