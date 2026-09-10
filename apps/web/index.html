@@ -1,1 +1,483 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduOS Slovenija</title>
 
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Inter, Arial, sans-serif;
+      background: #f5f7fb;
+      color: #172033;
+    }
+
+    header {
+      background: #ffffff;
+      border-bottom: 1px solid #e5e9f0;
+      height: 72px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-weight: 800;
+      font-size: 21px;
+    }
+
+    .logo-mark {
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      background: #315bea;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+    }
+
+    nav {
+      display: flex;
+      gap: 28px;
+      color: #667085;
+      font-size: 14px;
+    }
+
+    nav span {
+      cursor: pointer;
+    }
+
+    .profile {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      background: #e8ecf7;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+    }
+
+    main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 48px 32px 80px;
+    }
+
+    .welcome {
+      margin-bottom: 32px;
+    }
+
+    .welcome p {
+      color: #667085;
+      margin-top: 8px;
+      font-size: 16px;
+    }
+
+    h1 {
+      font-size: 34px;
+      letter-spacing: -1px;
+    }
+
+    .search {
+      background: white;
+      border: 1px solid #e3e7ef;
+      border-radius: 16px;
+      padding: 15px 18px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      max-width: 700px;
+      margin-bottom: 40px;
+      box-shadow: 0 4px 15px rgba(20, 30, 50, 0.04);
+    }
+
+    .search-icon {
+      font-size: 20px;
+      color: #7b8494;
+    }
+
+    .search input {
+      border: 0;
+      outline: 0;
+      width: 100%;
+      font-size: 16px;
+      color: #172033;
+    }
+
+    .section-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 18px;
+    }
+
+    .section-title h2 {
+      font-size: 21px;
+    }
+
+    .section-title a {
+      color: #315bea;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    .levels {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 18px;
+      margin-bottom: 42px;
+    }
+
+    .level {
+      background: white;
+      border: 1px solid #e5e9f0;
+      border-radius: 18px;
+      padding: 24px;
+      min-height: 170px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .level:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 30px rgba(20, 30, 50, 0.08);
+      border-color: #cbd5f5;
+    }
+
+    .level-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      background: #eef2ff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 21px;
+      margin-bottom: 20px;
+    }
+
+    .level h3 {
+      font-size: 17px;
+      margin-bottom: 8px;
+    }
+
+    .level p {
+      color: #7a8495;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .dashboard {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 20px;
+    }
+
+    .card {
+      background: white;
+      border: 1px solid #e5e9f0;
+      border-radius: 18px;
+      padding: 24px;
+    }
+
+    .card h3 {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+
+    .course {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 15px 0;
+      border-bottom: 1px solid #edf0f5;
+    }
+
+    .course:last-child {
+      border-bottom: 0;
+    }
+
+    .course-icon {
+      width: 46px;
+      height: 46px;
+      border-radius: 12px;
+      background: #f0f3f9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+    }
+
+    .course-info {
+      flex: 1;
+    }
+
+    .course-info strong {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .course-info span {
+      color: #7a8495;
+      font-size: 13px;
+    }
+
+    .progress {
+      width: 120px;
+    }
+
+    .progress-bar {
+      height: 7px;
+      background: #edf0f5;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: #315bea;
+      border-radius: 10px;
+    }
+
+    .progress-text {
+      font-size: 12px;
+      color: #7a8495;
+      margin-top: 5px;
+      text-align: right;
+    }
+
+    .stat {
+      display: flex;
+      justify-content: space-between;
+      padding: 14px 0;
+      border-bottom: 1px solid #edf0f5;
+    }
+
+    .stat:last-child {
+      border-bottom: 0;
+    }
+
+    .stat span {
+      color: #7a8495;
+    }
+
+    .stat strong {
+      font-size: 18px;
+    }
+
+    footer {
+      text-align: center;
+      color: #98a1b2;
+      font-size: 13px;
+      margin-top: 50px;
+    }
+
+    @media (max-width: 900px) {
+      header {
+        padding: 0 20px;
+      }
+
+      nav {
+        display: none;
+      }
+
+      .levels {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .dashboard {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 550px) {
+      main {
+        padding: 32px 18px 60px;
+      }
+
+      .levels {
+        grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 28px;
+      }
+
+      .progress {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <div class="logo">
+      <div class="logo-mark">E</div>
+      <span>EduOS Slovenija</span>
+    </div>
+
+    <nav>
+      <span>Učenje</span>
+      <span>Predmeti</span>
+      <span>Programi</span>
+      <span>Kurikulum</span>
+    </nav>
+
+    <div class="profile">U</div>
+  </header>
+
+  <main>
+
+    <section class="welcome">
+      <h1>Dobrodošel v EduOS 🇸🇮</h1>
+      <p>Celoten slovenski izobraževalni sistem na enem mestu.</p>
+    </section>
+
+    <div class="search">
+      <div class="search-icon">⌕</div>
+      <input
+        type="text"
+        placeholder="Išči predmet, temo, učno vsebino ali program ..."
+      >
+    </div>
+
+    <div class="section-title">
+      <h2>Izberi izobraževalno raven</h2>
+      <a>Prikaži vse</a>
+    </div>
+
+    <section class="levels">
+
+      <div class="level">
+        <div class="level-icon">🧸</div>
+        <h3>Predšolska vzgoja</h3>
+        <p>Program za predšolske otroke in področja razvoja.</p>
+      </div>
+
+      <div class="level">
+        <div class="level-icon">🏫</div>
+        <h3>Osnovna šola</h3>
+        <p>1.–9. razred, predmeti, učni načrti, cilji in standardi.</p>
+      </div>
+
+      <div class="level">
+        <div class="level-icon">🎓</div>
+        <h3>Srednja šola</h3>
+        <p>Gimnazije, poklicno in strokovno izobraževanje.</p>
+      </div>
+
+      <div class="level">
+        <div class="level-icon">🏛️</div>
+        <h3>Visoko šolstvo</h3>
+        <p>Višje strokovno, visokošolsko, magistrsko in doktorsko izobraževanje.</p>
+      </div>
+
+    </section>
+
+    <section class="dashboard">
+
+      <div class="card">
+        <h3>Nadaljuj z učenjem</h3>
+
+        <div class="course">
+          <div class="course-icon">📚</div>
+
+          <div class="course-info">
+            <strong>Slovenščina</strong>
+            <span>Osnovna šola · 4. razred</span>
+          </div>
+
+          <div class="progress">
+            <div class="progress-bar">
+              <div class="progress-fill" style="width: 68%;"></div>
+            </div>
+            <div class="progress-text">68 %</div>
+          </div>
+        </div>
+
+        <div class="course">
+          <div class="course-icon">🔢</div>
+
+          <div class="course-info">
+            <strong>Matematika</strong>
+            <span>Osnovna šola · 4. razred</span>
+          </div>
+
+          <div class="progress">
+            <div class="progress-bar">
+              <div class="progress-fill" style="width: 42%;"></div>
+            </div>
+            <div class="progress-text">42 %</div>
+          </div>
+        </div>
+
+        <div class="course">
+          <div class="course-icon">🌍</div>
+
+          <div class="course-info">
+            <strong>Angleščina</strong>
+            <span>Osnovna šola · 4. razred</span>
+          </div>
+
+          <div class="progress">
+            <div class="progress-bar">
+              <div class="progress-fill" style="width: 25%;"></div>
+            </div>
+            <div class="progress-text">25 %</div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="card">
+        <h3>Tvoj napredek</h3>
+
+        <div class="stat">
+          <span>Predmeti</span>
+          <strong>3</strong>
+        </div>
+
+        <div class="stat">
+          <span>Predelane teme</span>
+          <strong>27</strong>
+        </div>
+
+        <div class="stat">
+          <span>Rešene naloge</span>
+          <strong>84</strong>
+        </div>
+
+        <div class="stat">
+          <span>Usvojeno znanje</span>
+          <strong>61 %</strong>
+        </div>
+      </div>
+
+    </section>
+
+    <footer>
+      EduOS Slovenija · podatkovni model temelji na slovenskem izobraževalnem sistemu
+    </footer>
+
+  </main>
+
+</body>
+</html>
